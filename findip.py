@@ -1,6 +1,6 @@
 import socket
 
-host = input("Enter your target:"))
+host = input("Enter your target:")
 
 ip = socket.gethostbyname(host)
 
