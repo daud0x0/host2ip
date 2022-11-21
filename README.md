@@ -9,7 +9,7 @@
 ## Example:
 	$ cat host.txt
 	www.example.com
-	www.google.com
+    www.example.org
 	www.github.com
 	$ cat host.txt | ./host2bin
 	93.184.216.34
