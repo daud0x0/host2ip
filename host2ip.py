@@ -3,7 +3,6 @@
 import sys
 from socket import gethostbyname
 try:
-
     for host in sys.stdin:
         try:
             print(gethostbyname(host.strip()))
