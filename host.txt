@@ -1,4 +1,5 @@
 example.com
-google.com
+example.org
 ns2.example.com
-www.google.com
+www.example.com
+www.fjlsjfskfksjddfjsldfk.com
